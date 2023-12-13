@@ -11,7 +11,7 @@ O Projeto Integrador é uma iniciativa do nosso grupo de estudos para criar um s
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/seunomeusuario/projeto-inovador.git
+    git clone https://https://github.com/GiovaniP-Barbosa/PROJETO_INTEGRADOR
     ```
 
 2. Crie uma branch para suas contribuições:
