@@ -4,7 +4,7 @@ Bem-vindo ao repositório do Projeto Inovador! Este GitHub foi criado para facil
 
 ## Sobre o Projeto
 
-O Projeto Inovador é uma iniciativa do nosso grupo de estudos para criar algo incrível e inovador. Estamos empolgados para trabalhar juntos e trazer ideias inovadoras para a realidade.
+O Projeto Integrador é uma iniciativa do nosso grupo de estudos para criar um site . Estamos empolgados para trabalhar juntos e trazer ideias inovadoras para a realidade.
 
 ## Como Contribuir
 
