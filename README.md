@@ -1,4 +1,4 @@
-# Projeto Integrador
+# Projeto 
 
 Bem-vindo ao repositório do Projeto Inovador! Este GitHub foi criado para facilitar a colaboração e o desenvolvimento do nosso projeto em grupo. Aqui estão algumas informações iniciais para começarmos:
 
